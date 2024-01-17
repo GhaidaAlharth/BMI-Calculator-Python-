@@ -1,15 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[27]:
-
-
 #BMI Calculator
-
-
-# In[31]:
-
-
 def result(BMI,name):
     if BMI>0:
         if(BMI<18.5):
